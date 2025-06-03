@@ -1,3 +1,7 @@
+# Configuration
+*.yml
+application.properties
+
 # Created by https://www.toptal.com/developers/gitignore/api/java,intellij,macos,gradle
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,intellij,macos,gradle
 
